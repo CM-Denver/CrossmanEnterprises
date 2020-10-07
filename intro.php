@@ -33,6 +33,8 @@
     function toLocation(theURL) {
         if (theURL == 'shop'){
             location.href = "#collection-list"; 
+            var monkeyAudio = new Audio('audio/monkey2.wav');
+            monkeyAudio.play();
         }
     }
 </script>
