@@ -69,7 +69,7 @@
 }
 .white
 {
-    color: white;
+    color: rgb(255,255,255);
 }
 .button
 {
