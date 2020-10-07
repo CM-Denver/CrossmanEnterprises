@@ -41,9 +41,8 @@
 }
 .logo
 {
-    width: 95%;
-    max-width: 500pt;
-    background-color: white;
+    width: 50%;
+    max-width: 300pt;
 }
 .mainFont
 {
@@ -68,6 +67,10 @@
     text-align: center;
     font-style: italic;
 }
+.white
+{
+    color: white;
+}
 .button
 {
     height: 40pt;
@@ -80,6 +83,11 @@
 {
     max-width: 300pt;
     max-height: 300pt;
+    opacity: 0.7;
+}
+.slaveImage:hover
+{
+    opacity: 1.0;
 }
 .twoColumn
 {
@@ -92,8 +100,28 @@
 {
     margin-top: 25pt;
     margin-bottom: 25;
-    border-top: 2px  solid #262626;
+    border-top: 2px  solid rgb(200,200,200);
     width: 750pt;
+}
+.copyright
+{
+    font-size: 11pt;
+    padding: 50pt;
+    width: 100%;
+    color: rgb(60,60,60);
+    background-color: rgb(237,237,237);
+}
+.aboutus
+{
+    width: 100%;
+    background-color: rgb(237,237,237);
+}
+.intro
+{
+    background-image: url("images/farmers3.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 50pt;
 }
 </style>
 

@@ -1,12 +1,13 @@
-<div class='center' id='main-section'>
+
+<div class='center intro' id='main-section'>
     <img class='center logo' src="logo/logo.png">
-    <p class='mainFont fontItalic'>New Collection</p>
+    <p class='mainFont fontItalic white'>New Collection</p>
     <input class='center mainFont button' type="button" value="SHOP NOW >" onclick="toLocation('shop');">
 </div>
 
 <div class='center hline'></div>
 
-<div class='center width750'>
+<div class='aboutus'><div class='center width750'>
     <h1 class='mainFont titleFont font40'>LOVE & PASSION</h1>
     <p class='mainFont fontItalic'>For What We Do</p>
     <p class='mainFont'>
@@ -24,7 +25,7 @@
     <p class='mainFont'>
     We want to thank our partners for helping pave the way for a new golden age of slave trade; Diego Go Mail, Tyler’s Athletics, and Wyatt’s Wacky Medicine. Remember for any of your human trafficking needs, think Crossman Enterprises!
     </p>
-</div>
+</div></div>
 
 <div class='center hline'></div>
 
